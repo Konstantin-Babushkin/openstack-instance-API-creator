@@ -1,0 +1,12 @@
+clouds:
+  openstack:
+    auth:
+      auth_url: http://127.0.0.1:5000
+      username: "admin"
+      password: "b5264eb34d2d430f"
+      project_id: 382c3605e19e42dd8414b1bbfa9c9091
+      project_name: "admin"
+      user_domain_name: "Default"
+    region_name: "RegionOne"
+    interface: "public"
+    identity_api_version: 3
